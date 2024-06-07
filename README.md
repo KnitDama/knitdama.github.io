@@ -1,5 +1,11 @@
 # [knitdama.github.io](https://knitdama.github.io/)
-ここはKnitDamaのユーザーページです。
+ここはKnitDamaのユーザーページです。  
+KnitDamaとは匿名名義で作ったものを人に紹介するために作った名義で、  
+このページも暫定的なものです。
+
+# リンク
+- [GitHub](https://github.com/KnitDama)
+- [X(Twitter)](https://x.com/KnitDama)
 
 # 作成したもの
 ## スプレッドシート
