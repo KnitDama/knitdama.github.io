@@ -9,8 +9,8 @@ KnitDamaとは、別の匿名名義で作ったものを人に紹介するため
 
 # 作成したもの
 ## スプレッドシート
-- [自動生成英単語テストプリント](https://docs.google.com/spreadsheets/d/1YQjUfZ7Of6rfiYvLLa87TU1xTF0ZGqmtyfvZCrbaT5M/edit?usp=sharing)  
-  - [デモ動画(Google Drive)](https://drive.google.com/file/d/1pZYPT5uOLf067OpSWa-tKS4Qhei0Ag7h/view?usp=sharing)
+- [英単語テストプリントを生成するシート](https://docs.google.com/spreadsheets/d/1YQjUfZ7Of6rfiYvLLa87TU1xTF0ZGqmtyfvZCrbaT5M/edit?usp=sharing)  
+  - [デモ動画](https://youtu.be/dek7FhoWa2Q)
 
 ## C#
 - FF14コスト計算ツール(非公開)  
