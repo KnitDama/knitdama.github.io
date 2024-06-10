@@ -14,4 +14,4 @@ KnitDamaとは、別の匿名名義で作ったものを人に紹介するため
 
 ## C#
 - FF14コスト計算ツール(非公開)  
-  - [デモ動画(Google Drive)](https://drive.google.com/file/d/1zvEoPhB_jtwYtWJ001InHi-ojV-L909H/view?usp=sharing)
+  - [デモ動画](https://youtu.be/eJue6TUWv_I)
