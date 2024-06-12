@@ -10,6 +10,7 @@ KnitDamaとは、別の匿名名義で作ったものを人に紹介するため
 # 作成したもの
 ## スプレッドシート
 - [英単語テストプリントを生成するシート](https://docs.google.com/spreadsheets/d/1YQjUfZ7Of6rfiYvLLa87TU1xTF0ZGqmtyfvZCrbaT5M/edit?usp=sharing)  
+実行にはGoogle Apps Scriptの許可が必要です。
   - [デモ動画](https://youtu.be/dek7FhoWa2Q)
 
 ## C#
